@@ -1,1 +1,3 @@
 Welcome to Devops class.
+Modifying to Welcome to GIT class
+
